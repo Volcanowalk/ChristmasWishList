@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChristmasWishList</string>
+    <string name="title"><u>Christmas Wish List</u></string>
+    <string name="btnAdd">Add(+)</string>
+    <string name="titleAdd">Wish a New Gift!</string>
+    <string name="giftName">Gift Name</string>
+    <string name="giftDescription">Gift Description</string>
+    <string name="giftImage">Gift Image</string>
+    <string name="btnSubmit">Save</string>
+    <string name="btnImage">Click an image to select</string>
+    <string name="takePhoto">Take Photo for the gift!</string>
+</resources>
